@@ -1,5 +1,7 @@
 👋 Hi, I’m @martynafoksinska.
+
 🌱 I’m currently learning HTML and CSS.
+
 📫 How to reach me:
 martyna.a.foksinska@gmail.com
 
