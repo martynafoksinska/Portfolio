@@ -1,6 +1,6 @@
 About me
 
-👋 Hi, I’m @martynafoksinska. I am master of applied linguistics - English and German languages. I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing. My goal is to develop testing knowlage and technical skills.
+👋 Hi, I’m @martynafoksinska. I have a masters degree in applied linguistics - English and German languages. I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing. My goal is to develop testing knowlage and technical skills.
 
 Tools
 
