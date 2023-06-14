@@ -20,6 +20,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
    
     SQL   
     SCRUM
+    KANBAN
     HTML, CSS
     Java (for testers)
     SCRUM
