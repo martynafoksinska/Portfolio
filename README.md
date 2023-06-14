@@ -30,17 +30,18 @@ Tech Stack
 Courses
 
 ```
-* Coders Lab - Automation Tester - 2022
+Coders Lab - Automation Tester - 2022
       Course included 48h of training with couch and self work.
         
-* Coders Lab - SQL - Data Analysis - 2022
+Coders Lab - SQL - Data Analysis - 2022
       Course included 55h of training with couch and self work.
        
-* Coders Lab - Manual Tester - 2021
+Coders Lab - Manual Tester - 2021
       Course included 80h of training with couch and self work.
 
-* Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)
-      
-  
-* Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
+Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)
+        
+Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
+
+Udemy - [Podstawy testowania oprogramowania](https://cheil.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/31736138?start=0#overview)
 ```
