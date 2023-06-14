@@ -8,6 +8,8 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
     Jira
     Slack
+    Browserstack
+    Screaming Frog
     Postman
     Visual Studio Code    
     Github
@@ -17,18 +19,14 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
     Drupal   
    
 ## Tech Stack 🤖
-   
-    SQL   
-    SCRUM
-    KANBAN
-    HTML, CSS
-    Java (for testers)
-    SCRUM
-    Selenium WebDriver
-    Software testing
-    Creating test cases
-    Reporting bugs
-    Finding uniqe CSS Selectors and xPaths
+
+    Languages: Java (for testers), JavaScript (for testers) (basics)
+    Version Control Systems: Git (basics)
+    IDE: Visual Studio Code, IntelliJ (basics)
+    Databases: SQL (basics)
+    Project Management Frameworks: Scrum, Kanban 
+    Other: HTML, CSS
+    Testing: Selenium WebDriver, Software testing, Creating test cases, Reporting bugs, Finding uniqe CSS Selectors and xPaths
 
 ## Certification 👩‍🎓
 
