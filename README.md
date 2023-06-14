@@ -7,10 +7,10 @@ Tools
     Jira
     Slack
     Postman
-    Visual Studio Code
-    Selenium WebDriver
+    Visual Studio Code    
     Github
     DevTools
+    Adobe Experience Manager (AEM)
     Hybris
     Drupal   
    
@@ -20,6 +20,12 @@ Tech Stack
     SCRUM
     HTML, CSS
     Java (for testers)
+    SCRUM
+    Selenium WebDriver
+    Software testing
+    Creating test cases
+    Reporting bugs
+    Finding uniqe CSS Selectors and xPaths
    
 Courses
 
@@ -31,3 +37,8 @@ Courses
        
 * Coders Lab - Manual Tester - 2021
       Course included 80h of training with couch and self work.
+
+* Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD
+      
+  
+* Udemy - [https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw
