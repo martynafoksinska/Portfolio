@@ -1,15 +1,16 @@
 About me
 
-👋 Hi, I’m @martynafoksinska. I have a masters degree in applied linguistics - English and German languages. I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing. My goal is to develop testing knowlage and technical skills.
+👋 Hi, I’m Martyna Foksińska. I have a masters degree in applied linguistics - English and German languages. I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing. My goal is to develop testing knowlage and technical skills.
 
 Tools
 
     Jira
-    Selenium IDE
-    Github
-    Visual Studio Code
-    DevTools
     Slack
+    Postman
+    Visual Studio Code
+    Selenium WebDriver
+    Github
+    DevTools
     Hybris
     Drupal   
    
