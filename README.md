@@ -33,30 +33,35 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 ## Certification 👩‍🎓
 
 
-    Coders Lab - Automation Tester - 2022
+*    Coders Lab - Automation Tester - 2022
       Course included 48h of training with couch and self work.
         
-    Coders Lab - SQL - Data Analysis - 2022
+  *  Coders Lab - SQL - Data Analysis - 2022
       Course included 55h of training with couch and self work.
        
-    Coders Lab - Manual Tester - 2021
+*    Coders Lab - Manual Tester - 2021
       Course included 80h of training with couch and self work.
 
 ## Courses 🤓
 
-Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)
+* Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)
 
-Udemy - [Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap](cheil.udemy.com/course/od-zera-do-front-end-developera-cz2)
+* Udemy - [Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap](cheil.udemy.com/course/od-zera-do-front-end-developera-cz2)
         
-Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
+* Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
 
-Udemy - [Podstawy testowania oprogramowania](https://cheil.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+* Udemy - [Podstawy testowania oprogramowania](https://cheil.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
 
-Udemy - [Java for Testers](https://cheil.udemy.com/course/java-for-testers-dmitry)
+* Udemy - [Java for Testers](https://cheil.udemy.com/course/java-for-testers-dmitry)
 
-Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://cheil.udemy.com/course/postman-api-automation-testing-with-javascript)
+* Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://cheil.udemy.com/course/postman-api-automation-testing-with-javascript)
 
 
 ## My Projects 🗺️
 
-[jobSearch](https://github.com/martynafoksinska/jobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
+* [jobSearch](https://github.com/martynafoksinska/jobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
+
+## Reported bugs
+## Testing Raports
+## Test Cases
+## Test Scenarios
