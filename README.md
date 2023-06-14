@@ -1,9 +1,9 @@
-About me
+# About me
 
 👋 Hi, I’m Martyna Foksińska. I have a masters degree in applied linguistics - English and German languages - I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing.
 I' am an ambitious, self-driven professional with over 1,5 years of experience in field of quality assurance. Analytical thinking and inquisitiveness are my strenghts. Currently I am looking for new opportunities in testing. My goal is to develop testing knowlage and technical skills.
 
-#Tools
+## Tools
 
     Jira
     Slack
@@ -15,7 +15,7 @@ I' am an ambitious, self-driven professional with over 1,5 years of experience i
     Hybris
     Drupal   
    
-Tech Stack
+## Tech Stack
    
     SQL   
     SCRUM
@@ -28,7 +28,7 @@ Tech Stack
     Reporting bugs
     Finding uniqe CSS Selectors and xPaths
 
-Courses
+## Courses
 
 
 Coders Lab - Automation Tester - 2022
