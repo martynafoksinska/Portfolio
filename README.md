@@ -41,4 +41,4 @@ Courses
 * Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD
       
   
-* Udemy - [https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw
+* Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
