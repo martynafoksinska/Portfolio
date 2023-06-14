@@ -58,4 +58,4 @@ Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://ch
 
 ## My Projects 🗺️
 
-[jobSearch](https://github.com/martynafoksinska/jobSearch)
+[jobSearch](https://github.com/martynafoksinska/jobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
