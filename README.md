@@ -26,9 +26,10 @@ Tech Stack
     Creating test cases
     Reporting bugs
     Finding uniqe CSS Selectors and xPaths
-   
+
 Courses
 
+```
 * Coders Lab - Automation Tester - 2022
       Course included 48h of training with couch and self work.
         
@@ -38,7 +39,8 @@ Courses
 * Coders Lab - Manual Tester - 2021
       Course included 80h of training with couch and self work.
 
-* Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD
+* Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)
       
   
 * Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)
+```
