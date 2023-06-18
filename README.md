@@ -57,7 +57,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 ## My Projects 🗺️
 
-* [jobSearch](https://github.com/martynafoksinska/jobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
+* [testerJobSearch](https://github.com/martynafoksinska/jobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
 
 ## My Test Documentation
 * Bug Reports
