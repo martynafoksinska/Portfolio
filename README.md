@@ -60,7 +60,6 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 * [testerJobSearch](https://github.com/martynafoksinska/testerJobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
 
 ## My Test Documentation
-* Bug Reports
-* Test Reports
-* Test Cases
-* Test Scenarios
+
+* [Bug Reports](https://github.com/martynafoksinska/BugReports)
+  
