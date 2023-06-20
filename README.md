@@ -7,11 +7,13 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 ## Tools 👩‍🔧
 
     Jira
+    Confluence
     Slack
     Browserstack
     Screaming Frog
     Postman
-    Visual Studio Code    
+    Visual Studio Code
+    IntelliJ IDEA
     Github
     DevTools
     Adobe Experience Manager (AEM)
@@ -22,11 +24,10 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
     Languages: Java (for testers), JavaScript (for testers) (basics)
     Version Control Systems: Git (basics)
-    IDE: Visual Studio Code, IntelliJ (basics)
     Databases: SQL (basics)
     Project Management Frameworks: Scrum, Kanban 
     Other: HTML, CSS
-    Testing: Selenium WebDriver, Software testing, Creating test cases, Reporting bugs, Finding uniqe CSS Selectors and xPaths
+    Testing: Selenium WebDriver, Software testing, Creating test cases, Reporting bugs
 
 ## Certification 👩‍🎓
 
