@@ -62,5 +62,6 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 ## My Test Documentation
 
-* [Bug Reports](https://github.com/martynafoksinska/BugReports)
+* [Bug reports](https://github.com/martynafoksinska/BugReports)
+* [Test cases](https://github.com/martynafoksinska/Test_cases)
   
