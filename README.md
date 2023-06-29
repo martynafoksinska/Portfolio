@@ -65,11 +65,13 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
  
 * Udemy - [Postman od podstaw - testowanie REST API](https://cheil.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)   
         _Testing REST API in Postman. Api test automation with Newman and Jenkins CI/CD._
-    
+
+  * [Link to the certificate](https://cheil.udemy.com/certificate/UC-3c3178cb-c798-4f83-9bc8-a8acbe1a2028/)    
 
 * Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://cheil.udemy.com/course/postman-api-automation-testing-with-javascript)   
         _Basics to Advanced Postman Automation tutorial from scratch to learn API /Web Services testing with CI/CD Integration_
-    
+
+      
 
 ## My Projects 🗺️
 
