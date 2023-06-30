@@ -49,7 +49,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 * Udemy - [Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap](https://www.udemy.com/course/od-zera-do-front-end-developera-cz2)  
       _Basics of HTML, CSS, semantics and RWD - part 2_
-    * [Link to the certificate](https://cheil.udemy.com/certificate/UC-ce1b5745-87bf-42ff-8c13-896b598f3ea1/) 
+    * [Link to the certificate](https://udemy.com/certificate/UC-ce1b5745-87bf-42ff-8c13-896b598f3ea1/) 
         
 * Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)  
       _Test automation with Selenium WebDriver and Java with live exapmples._
