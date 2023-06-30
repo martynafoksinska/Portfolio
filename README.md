@@ -79,6 +79,6 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 ## My Test Documentation
 
-* [Bug reports](https://docs.google.com/document/d/e/2PACX-1vQojdHIQXPgEXv-qiG-QOrB2ZjApbpbk3TB46Sn5srSmvyk9-sid4P0qbNBEk1gSJydPXy456CGHrhg/pub)
+* [Bug reports](https://docs.google.com/document/d/1LJdp4gykA0vlIBZrK1qNXmBwbMBu49khCmd74TrLZi0/edit?usp=sharing)
 * [Test cases](https://github.com/martynafoksinska/Test_cases)
   
