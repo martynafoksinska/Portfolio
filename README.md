@@ -45,30 +45,30 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 * Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)  
     _Basics of HTML, CSS, semantics and RWD - part 1_
-    * [Link to the certificate](https://cheil.udemy.com/certificate/UC-8d1b4a7a-f673-491c-af89-a423581ed979/)
+    * [Link to the certificate](https://udemy.com/certificate/UC-8d1b4a7a-f673-491c-af89-a423581ed979/)
 
-* Udemy - [Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap](cheil.udemy.com/course/od-zera-do-front-end-developera-cz2)  
+* Udemy - [Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap](https://www.udemy.com/course/od-zera-do-front-end-developera-cz2)  
       _Basics of HTML, CSS, semantics and RWD - part 2_
     * [Link to the certificate](https://cheil.udemy.com/certificate/UC-ce1b5745-87bf-42ff-8c13-896b598f3ea1/) 
         
-* Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://cheil.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)  
+* Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)  
       _Test automation with Selenium WebDriver and Java with live exapmples._
-     * [Link to the certificate](https://cheil.udemy.com/certificate/UC-12668bb6-5463-4adb-8508-cf82bc781138/)
+     * [Link to the certificate](https://udemy.com/certificate/UC-12668bb6-5463-4adb-8508-cf82bc781138/)
 
-* Udemy - [Podstawy testowania oprogramowania](https://cheil.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)   
+* Udemy - [Podstawy testowania oprogramowania](https://udemy.com/course/praktyczny-kurs-testowania-oprogramowania)   
         _Basics of software testing._
-    * [Link to the certificate](https://cheil.udemy.com/certificate/UC-c1ce9016-d99e-40ca-ab99-501163306de6/)
+    * [Link to the certificate](https://udemy.com/certificate/UC-c1ce9016-d99e-40ca-ab99-501163306de6/)
 
-* Udemy - [Java for Testers](https://cheil.udemy.com/course/java-for-testers-dmitry)   
+* Udemy - [Java for Testers](https://udemy.com/course/java-for-testers-dmitry)   
     _Java for beginners and testers course._
-    * [Link to the certificate](https://cheil.udemy.com/certificate/UC-6bc96567-7c3a-44bd-803e-4daf60e52c21/)
+    * [Link to the certificate](https://udemy.com/certificate/UC-6bc96567-7c3a-44bd-803e-4daf60e52c21/)
  
-* Udemy - [Postman od podstaw - testowanie REST API](https://cheil.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)   
+* Udemy - [Postman od podstaw - testowanie REST API](https://udemy.com/course/postman-od-podstaw-testowanie-rest-api/)   
         _Testing REST API in Postman. Api test automation with Newman and Jenkins CI/CD._
 
-  * [Link to the certificate](https://cheil.udemy.com/certificate/UC-3c3178cb-c798-4f83-9bc8-a8acbe1a2028/)    
+  * [Link to the certificate](https://udemy.com/certificate/UC-3c3178cb-c798-4f83-9bc8-a8acbe1a2028/)    
 
-* Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://cheil.udemy.com/course/postman-api-automation-testing-with-javascript)   
+* Udemy - [Postman - Learn API Testing from Scratch with Live Projects](https://udemy.com/course/postman-api-automation-testing-with-javascript)   
         _Basics to Advanced Postman Automation tutorial from scratch to learn API /Web Services testing with CI/CD Integration_
 
       
