@@ -77,6 +77,9 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 * [testerJobSearch](https://github.com/martynafoksinska/testerJobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
 
+* Tests of API One <br></br>
+  [![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=18571840-4df65135-c9bd-43ef-880d-94ba1c469ad3&entityType=collection)
+
 ## My Test Documentation
 
 * [Bug reports](https://docs.google.com/document/d/1LJdp4gykA0vlIBZrK1qNXmBwbMBu49khCmd74TrLZi0/edit?usp=sharing)
