@@ -1,5 +1,5 @@
 # Portfolio
-* [About me](https://github.com/martynafoksinska/Portfolio#About-me)
+* [About me](https://github.com/martynafoksinska/Portfolio#about-me)
 * Tools
 * Tech Stack
 * CV
