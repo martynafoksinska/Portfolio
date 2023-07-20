@@ -31,7 +31,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
     Hybris
     Drupal   
    
-## Tech Stack 🤖
+## Tech Stack🤖
 
     Languages: Java (for testers), JavaScript (for testers) (basics)
     Version Control Systems: Git (basics)
@@ -40,7 +40,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
     Other: HTML, CSS
     Testing: Selenium WebDriver, Software testing, Creating test cases, Reporting bugs
 
-## Certification 👩‍🎓
+## Certification👩‍🎓
 
 
 *    Coders Lab - Automation Tester - 2022
@@ -52,7 +52,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 *    Coders Lab - Manual Tester - 2021
       Course included 80h of training with couch and self work.
 
-## Courses 🤓
+## Courses🤓
 
 * Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1)  
     _Basics of HTML, CSS, semantics and RWD - part 1_
@@ -84,7 +84,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
       
 
-## My Projects 🗺️
+## My Projects🗺️
 
 * [Automated Job Search Script](https://github.com/martynafoksinska/testerJobSearch) - Automated job search script created with Java, Selenium, Cucumber and Gherkin.
 
