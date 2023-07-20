@@ -15,7 +15,7 @@
 
 I'm an ambitious, self-driven professional with over 1,5 years of experience in field of quality assurance. Analytical thinking and inquisitiveness are my strenghts. Currently I am looking for new opportunities in testing. My goal is to develop testing knowlage and technical skills.
 
-## Tools 👩‍🔧
+## Tools👩‍🔧
 
     Jira
     Confluence
