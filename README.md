@@ -104,3 +104,4 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
 ## Podcasts
 
 * [Po szklanie i na testowanie](https://open.spotify.com/show/3kWG4pdHR9NIIGAMYTlpK3?si=50a1a42a9d8d4997)
+* [Tu się testuje](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ?si=61d1737ee61341ca)
