@@ -40,6 +40,10 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
     Other: HTML, CSS
     Testing: Selenium WebDriver, Software testing, Creating test cases, Reporting bugs
 
+## CV
+
+You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/file/d/15V48_a0SJ45463glIYh6zDCm3_pmps0M/view?usp=sharing)
+
 ## Certification👩‍🎓
 
 
@@ -97,3 +101,6 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 * [Bug reports](https://docs.google.com/document/d/1LJdp4gykA0vlIBZrK1qNXmBwbMBu49khCmd74TrLZi0/edit?usp=sharing)
 * [Test cases](https://docs.google.com/document/d/16CM7_v3NadNxZST2YhaPNtGxKUi-qJW2zPE_F3oJ4_w/edit?usp=sharing)
   
+## Podcasts
+
+* [Po szklanie i na testowanie](https://open.spotify.com/show/3kWG4pdHR9NIIGAMYTlpK3?si=50a1a42a9d8d4997)
