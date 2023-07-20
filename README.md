@@ -1,13 +1,13 @@
 # Portfolio
 * [About me](https://github.com/martynafoksinska/Portfolio#about-me)
-* Tools
-* Tech Stack
-* CV
-* Certification
-* Courses
-* My Projects
-* My Test Documentation
-* Podcasts
+* [Tools](https://github.com/martynafoksinska/Portfolio#tools)
+* [Tech Stack](https://github.com/martynafoksinska/Portfolio#tech-stack)
+* [CV](https://github.com/martynafoksinska/Portfolio#cv)
+* [Certification](https://github.com/martynafoksinska/Portfolio#certification)
+* [Courses](https://github.com/martynafoksinska/Portfolio#courses)
+* [My Projects](https://github.com/martynafoksinska/Portfolio#my-projects)
+* [My Test Documentation](https://github.com/martynafoksinska/Portfolio#my-test-documentation)
+* [Podcasts](https://github.com/martynafoksinska/Portfolio#podcasts)
 
 ## About me
 
