@@ -1,6 +1,6 @@
 # Portfolio
 * [About me](https://github.com/martynafoksinska/Portfolio#about-me)
-* [Tools](https://github.com/martynafoksinska/Portfolio#tools👩‍🔧)
+* [Tools](https://github.com/martynafoksinska/Portfolio#tools)
 * [Tech Stack](https://github.com/martynafoksinska/Portfolio#tech-stack)
 * [CV](https://github.com/martynafoksinska/Portfolio#cv)
 * [Certification](https://github.com/martynafoksinska/Portfolio#certification)
