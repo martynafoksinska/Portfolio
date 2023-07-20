@@ -75,7 +75,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 ## My Projects 🗺️
 
-* [testerJobSearch](https://github.com/martynafoksinska/testerJobSearch) - Automated job search created with usage of Java, Selenium and Cucumber.
+* [Automated Job Search Script](https://github.com/martynafoksinska/testerJobSearch) - Automated job search script created with Java, Selenium, Cucumber and Gherkin.
 
 * API One - Testing API by sending CRUD requests to the endpoints:
 
