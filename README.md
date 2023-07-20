@@ -11,16 +11,16 @@
 
 ## About me
 
-👋 Hi, I’m Martyna Foksińska. I have a master's degree in applied linguistics - English and German languages - I graduated from University of Gdańsk. Since 2021 I have started to take interest in software testing.
+👋 Hi, I’m Martyna Foksińska. I have a master's degree in applied linguistics - English and German languages - I graduated from the University of Gdańsk. Since 2021 I have started to take an interest in software testing.
 
-I'm an ambitious, self-driven professional with over 1,5 years of experience in field of quality assurance. Analytical thinking and inquisitiveness are my strenghts. Currently I am looking for new opportunities in testing. My goal is to develop testing knowlage and technical skills.
+I'm an ambitious, self-driven professional with over 1,5 years of experience in the field of quality assurance. Analytical thinking and inquisitiveness are my strengths. Currently, I am looking for new opportunities in testing. My goal is to develop testing knowledge and technical skills.
 
 ## Tools👩‍🔧
 
     Jira
     Confluence
     Slack
-    Browserstack
+    BrowserStack
     Screaming Frog
     Postman
     Visual Studio Code
@@ -48,13 +48,13 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
 
 
 *    Coders Lab - Automation Tester - 2022
-      Course included 48h of training with couch and self work.
+      The course included 48h of training with couch and self-work.
         
   *  Coders Lab - SQL - Data Analysis - 2022
-      Course included 55h of training with couch and self work.
+      The course included 55h of training with couch and self-work.
        
 *    Coders Lab - Manual Tester - 2021
-      Course included 80h of training with couch and self work.
+      The course included 80h of training with couch and self-work.
 
 ## Courses🤓
 
@@ -67,7 +67,7 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
     * [Link to the certificate](https://udemy.com/certificate/UC-ce1b5745-87bf-42ff-8c13-896b598f3ea1/) 
         
 * Udemy - [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw)  
-      _Test automation with Selenium WebDriver and Java with live exapmples._
+      _Test automation with Selenium WebDriver and Java with live examples._
      * [Link to the certificate](https://udemy.com/certificate/UC-12668bb6-5463-4adb-8508-cf82bc781138/)
 
 * Udemy - [Podstawy testowania oprogramowania](https://udemy.com/course/praktyczny-kurs-testowania-oprogramowania)   
