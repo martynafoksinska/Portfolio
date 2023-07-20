@@ -88,7 +88,7 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
 
       
 
-## My Projects
+## My Projects🗺️
 
 * [Automated Job Search Script](https://github.com/martynafoksinska/testerJobSearch) - Automated job search script created with Java, Selenium, Cucumber and Gherkin.
 
