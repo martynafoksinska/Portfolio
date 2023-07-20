@@ -5,7 +5,7 @@
 * [CV](https://github.com/martynafoksinska/Portfolio#cv)
 * [Certification](https://github.com/martynafoksinska/Portfolio#certification)
 * [Courses](https://github.com/martynafoksinska/Portfolio#courses)
-* [My Projects](https://github.com/martynafoksinska/Portfolio#my-projects-%EF%B8%8F)
+* [My Projects](https://github.com/martynafoksinska/Portfolio#my-projects)
 * [My Test Documentation](https://github.com/martynafoksinska/Portfolio#my-test-documentation)
 * [Podcasts](https://github.com/martynafoksinska/Portfolio#podcasts)
 
@@ -88,7 +88,7 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
 
       
 
-## My Projects🗺️
+## My Projects
 
 * [Automated Job Search Script](https://github.com/martynafoksinska/testerJobSearch) - Automated job search script created with Java, Selenium, Cucumber and Gherkin.
 
