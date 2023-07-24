@@ -92,7 +92,7 @@ You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/fil
 
 * [Automated Job Search Script](https://github.com/martynafoksinska/testerJobSearch) - Automated job search script created with Java, Selenium, Cucumber and Gherkin.
 
-* API One - Testing API by sending CRUD requests to the endpoints:
+* API One - CRUD testing - sending requests to the endpoints:
 
   [![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=18571840-4df65135-c9bd-43ef-880d-94ba1c469ad3&entityType=collection)
 
