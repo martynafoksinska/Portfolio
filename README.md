@@ -42,7 +42,7 @@ I'm an ambitious, self-driven professional with over 1,5 years of experience in 
 
 ## CV
 
-You can view my CV as a PDF from my [Google Drive.](https://drive.google.com/file/d/15V48_a0SJ45463glIYh6zDCm3_pmps0M/view?usp=sharing)
+You can view my CV as a PDF from my [Google Drive.]
 
 ## Certification👩‍🎓
 
